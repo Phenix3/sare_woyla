@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/path_provider_android/intermediates/merged_res/release/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

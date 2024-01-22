@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/phenix/.gradle/caches/transforms-3/38f57af505a46cfa2227b537f838b535/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

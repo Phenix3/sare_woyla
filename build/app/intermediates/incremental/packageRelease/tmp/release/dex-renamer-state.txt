@@ -1,0 +1,4 @@
+#Mon Jan 22 03:10:02 EST 2024
+base.0=/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

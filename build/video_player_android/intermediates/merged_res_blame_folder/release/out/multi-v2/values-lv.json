@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/video_player_android/intermediates/merged_res/release/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/1325de473cff345a7e21a6b16b599b05/transformed/core-1.7.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "773",
+                        "endColumns": "100",
+                        "endOffsets": "869"
+                    }
+                },
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/e8db6d3e8c00f97f46bdca5039462fb4/transformed/jetified-exoplayer-core-2.18.7/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,196,268,338,418,495,596,694",
+                        "endColumns": "74,65,71,69,79,76,100,97,78",
+                        "endOffsets": "125,191,263,333,413,490,591,689,768"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/video_player_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-lv/values-lv.xml",
+            "map": [
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/1325de473cff345a7e21a6b16b599b05/transformed/core-1.7.0/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "773",
+                        "endColumns": "100",
+                        "endOffsets": "869"
+                    }
+                },
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/e8db6d3e8c00f97f46bdca5039462fb4/transformed/jetified-exoplayer-core-2.18.7/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,196,268,338,418,495,596,694",
+                        "endColumns": "74,65,71,69,79,76,100,97,78",
+                        "endOffsets": "125,191,263,333,413,490,591,689,768"
+                    }
+                }
+            ]
+        }
+    ]
+}

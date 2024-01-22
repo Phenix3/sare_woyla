@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phenix/Downloads/prokit-620/codecanyon-25787190-prokit-flutter-app-ui-design-templete-kit/Prokit_flutter_MainFile_SourceCode/37-flix_flutter/flix_flutter/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/home/phenix/.gradle/caches/transforms-3/1325de473cff345a7e21a6b16b599b05/transformed/core-1.7.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
